@@ -1,0 +1,10 @@
+{
+  "development": {
+    "PORT": 4000,
+    "MONGO_URI": "mongodb+srv://Stammy:GYYadO1Iz6L4bHh5@cluster0.frjqs.mongodb.net/Fullstack?retryWrites=true&w=majority"
+  },
+  "production": {
+    "PORT": 80,
+    ""
+  }
+}
